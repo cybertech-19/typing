@@ -33,15 +33,15 @@ Type random text in a terminal-like environment and feel like a hacker from a mo
 
 ## 🔗 Live Demo
 
-👉 [Live Website Link](https://your-live-link.com) *(Replace with your actual live link if hosted)*
+👉 [Live Website Link](https://cybertech-19.github.io/typing/)
 
 ---
 
 ## 🙌 Creator
 
-Created by [**Cyber Tech**](https://www.instagram.com/your_instagram_username)
+Created by [**Cyber Tech**](https://www.instagram.com/cyber_.tech/)
 
-GitHub: [@your_github_username](https://github.com/your_github_username)
+GitHub: [@your_github_username](https://github.com/cybertech-19)
 
 ---
 
