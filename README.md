@@ -41,7 +41,7 @@ Type random text in a terminal-like environment and feel like a hacker from a mo
 
 Created by [**Cyber Tech**](https://www.instagram.com/cyber_.tech/)
 
-GitHub: [@your_github_username](https://github.com/cybertech-19)
+GitHub: [@cybertech-19](https://github.com/cybertech-19)
 
 ---
 
